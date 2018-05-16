@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"NgxGlobalEventsModule":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"NgModule","line":3,"character":1},"arguments":[{"providers":[{"__symbolic":"reference","module":"./ngx_global_events","name":"NgxGlobalEvents","line":5,"character":4}]}]}]}}}]

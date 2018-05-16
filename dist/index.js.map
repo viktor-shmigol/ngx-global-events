@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":"AAAA,cAAc,qBAAqB,CAAC;AACpC,cAAc,4BAA4B,CAAC","sourcesContent":["export * from './ngx_global_events';\nexport * from './ngx_global_events.module';\n"]}

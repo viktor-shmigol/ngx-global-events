@@ -1,0 +1,36 @@
+{
+  "name": "ngx-global-events",
+  "version": "1.0.0",
+  "description": "Events is a publish-subscribe style event system for sending and responding to application-level events across your app",
+  "main": "bundles/ngx-global-events.umd.min.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/viktor-shmigol/ngx-global-events.git"
+  },
+  "keywords": [
+    "events",
+    "global_events",
+    "angular",
+    "angularX",
+    "angular2",
+    "angular4",
+    "angular5",
+    "angular6",
+    "ionic2",
+    "ionic3"
+  ],
+  "author": "Victor Shmigol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor-shmigol/ngx-global-events/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^6.0.2",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  },
+  "homepage": "https://github.com/viktor-shmigol/ngx-global-events#readme"
+}
